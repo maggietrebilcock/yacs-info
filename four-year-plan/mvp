@@ -1,0 +1,24 @@
+Minimum Viable Products:
+
+*a student's major, minor, and COHORT should be saved in their account, and autopopulate, but they should be
+able to change these to see what it would be like to change their majors. It should also be functional if
+you are not logged in, so prospective students, parents, etc can use it.
+
+1) Set up with basic eight semesters, including an option to choose which semester in junior/senior year
+you plan on doing Arch away. There is an option in the corner to add major, minor, pathway, etc, and then
+all your requirements show up underneath.
+
+2) Credit bar/tracking: essentially a bar that is more filled up with how many credits you currently have on your page.
+
+3) Suggested semesters: When you add a major, it will autopopulate with what semester the catalog suggests you take them. 
+This will require going back into the JSON to add that information.
+
+4) Prerequisites: When you add a class to your semester plan before its prereq, it will have a red dot 
+or something next to it letting you know. It should also allow you to click on the dot and select 'Transfer
+credits' or 'override' so people can manually get rid of the red dot.
+
+5) Integrates what quatalog does: based on previous years, you can only move a class into spring, fall, or summer 
+based on whether that class is normally offered there.
+
+6) Allows for students to save a worksheet in their account, and make an entirely new one for funsies.
+
