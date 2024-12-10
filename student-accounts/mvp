@@ -1,0 +1,21 @@
+Minimum viable product for the accounts students are able to make. Currently, students can make an account but they
+can't do anything with it. Hopefully, we will eventually be able to make the site accessible when you are not on RPI wifi. 
+In that scenario, we should make it that you need an RPI email to make an account.
+
+1) Profile page where students can see and change their basic information: name, cohort, major and such, etc. 
+
+2) Students should be able to save planned courses for a semester or their saved four-year plans.
+
+3) Students can enter the classes they have already taken and their transfer credits so that when making a four year plan, 
+it will solidify in there and can't be changed.
+
+4) Perhaps eventually: students can add friends within their profile. They can then view other student's profiles and see a 
+semester schedule that that student has posted. Students can choose whether or not to post a schedule for an upcoming
+semester. If a friend has posted their schedule, maybe when I am planning my schedule for the upcoming semester, there can be
+a little note next to a class I added that notifies me my friend plans on taking it. This is truly last priority, but I
+would love to see the following features:
+  - ability to plan study groups and the like based on students taking mutual classes
+  - the ability for professors to write notes about their classes
+  - this could lead to a new page: a feed, which you could scroll through and see requests for study groups, posts by
+  professors advocating for students to take specific classes
+
